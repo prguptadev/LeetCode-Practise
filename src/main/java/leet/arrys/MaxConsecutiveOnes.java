@@ -2,7 +2,7 @@ package leet.arrys;
 
 //Given a binary array nums, return the maximum number of consecutive 1's in the array.
 //
-//   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
+//   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
 //
 //        Example 1:
 //
